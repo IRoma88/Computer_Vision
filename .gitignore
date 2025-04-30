@@ -1,0 +1,14 @@
+# Entorno virtual
+env/
+venv/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Archivos de imagen
+*.jpg
+*.jpeg
+*.png
