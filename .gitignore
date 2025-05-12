@@ -9,6 +9,6 @@ __pycache__/
 .DS_Store
 
 # Archivos de imagen
-*.jpg
-*.jpeg
-*.png
+#*.jpg
+#*.jpeg
+#*.png
